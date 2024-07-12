@@ -1,0 +1,26 @@
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.Form1.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.AssemblyInfo.vb
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\bin\Debug\net6.0-windows\Payroll System - Castro.exe
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\bin\Debug\net6.0-windows\Payroll System - Castro.deps.json
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\bin\Debug\net6.0-windows\Payroll System - Castro.runtimeconfig.json
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\bin\Debug\net6.0-windows\Payroll System - Castro.dll
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\bin\Debug\net6.0-windows\Payroll System - Castro.pdb
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.dll
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\refint\Payroll System - Castro.dll
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.pdb
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll System - Castro.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\ref\Payroll System - Castro.dll
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.Resources.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.HomeTab.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.AboutTab.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.Kto12Tab.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.ProcurementTab.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.ResourcesTab.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.ContactTab.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.RegionsTab.resources
+C:\Users\Acer\source\repos\Payroll System - Castro\Payroll System - Castro\obj\Debug\net6.0-windows\Payroll_System___Castro.home.resources
